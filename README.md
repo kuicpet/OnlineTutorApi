@@ -1,2 +1,2 @@
 # OnlineTutorApi
-Api For Online Toturing App
+Server For Online Tutoring App
